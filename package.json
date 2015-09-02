@@ -1,18 +1,12 @@
 {
-  "name": "foocafe-component",
-  "version": "1.0.0",
-  "author": "Hampus Persson <h@hmps.se> (http://hmps.se/)",
-  "license": "MIT",
-  "jspm": {
-    "main": "foo.module.js",
-    "directories": {
-        "lib": "lib"
-    },
-    "configFile": "jspm.conf.js",
-    "devDependencies": {
-      "babel": "npm:babel-core@^5.8.22",
-      "babel-runtime": "npm:babel-runtime@^5.8.20",
-      "core-js": "npm:core-js@^1.1.0"
-    }
+  "main": "foo.module.js",
+  "directories": {
+      "lib": "lib"
+  },
+  "configFile": "jspm.conf.js",
+  "devDependencies": {
+    "babel": "npm:babel-core@^5.8.22",
+    "babel-runtime": "npm:babel-runtime@^5.8.20",
+    "core-js": "npm:core-js@^1.1.0"
   }
 }
