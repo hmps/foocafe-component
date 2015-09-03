@@ -1,4 +1,5 @@
 {
+  "registry": "jspm",
   "main": "foo.module.js",
   "directories": {
     "lib": "lib"
