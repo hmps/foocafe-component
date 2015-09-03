@@ -4,6 +4,9 @@
       "lib": "lib"
   },
   "configFile": "jspm.conf.js",
+  "dependencies": {
+      "text": "github:systemjs/plugin-text@^0.0.2"
+  },
   "devDependencies": {
     "babel": "npm:babel-core@^5.8.22",
     "babel-runtime": "npm:babel-runtime@^5.8.20",
